@@ -1,7 +1,6 @@
 ﻿
 using AspDotNetCoreMVCExample.DAL.Interfaces;
 using AspDotNetCoreMVCExample.DAL.Models;
-using AspDotNetCoreMVCExample.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AspDotNetCoreMVCExample.Controllers
